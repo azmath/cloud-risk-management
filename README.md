@@ -30,13 +30,19 @@
 
 **Governance**
 
+-Segregation of Duties
+
+-Zero trust architecture
+
+-Cloud security policies
+
 -Review Vendor agreement
 
 -Ensure compliance to ISO27001, PCIDSS /SOC2 compliance
 
--Regulatory requirements
+-Regulatory requirements assessment
 
--Data protection requirements
+-Data protection requirements assessment
 
 -Penetration testing reports
 
@@ -54,11 +60,23 @@
 
 -Retention of logs
 
--BCP/DR
+-BCP and DR (RTO/RPO, criticality)
+
+-Change management for cloud
+
+-Cloud acceptable usage policy
 
 -Exit clause
 
 -SLA
+
+-Pre production/post production checks
+
+- CI/CD pipelines security
+
+- Development environment security
+
+-Third party risk assessment
 
 
 **Access management**
@@ -92,13 +110,12 @@
 
 Weak encryption alogrithms/hashes
 
-Security architecture reviews
+Encryption at rest and transit
 
-Vulnerability management
 
-Patch management
 
-Network security
+
+**Network security**
 
 IDS/IPS
 
@@ -110,29 +127,21 @@ Third party integrations
 
 API security
 
-proxy
+Security architecture reviews
 
-Cloud security baselines
+Vulnerability management
+
+Patch management
+
+proxy
 
 infrastructure/platform specific security baselines
 
-Encryption at rest and transit
-
 Penetration testing and scanning of public ip
-
-Segregation of Duties
-
-Zero trust architecture
 
 Data storage and processing locations
 
-Develop specific policies to address cloud security
 
-BCP and DR (RTO/RPO, App severity)
-
-Change management on cloud
-
-Cloud acceptable usage policy
 
 Storage account security
 
@@ -177,9 +186,7 @@ Bastion host monitoring
 	WAF
 	
 	outsbound connection to Malicious ip
-	
-	
-	
+		
 	etc.,
 	
 
