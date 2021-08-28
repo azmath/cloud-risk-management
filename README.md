@@ -15,9 +15,9 @@ OWASP cloud top 10
  Infrastructure Security
  Non-Production Environment Exposure
 
-**Checklist**
+**GRC Checklist**
 
-Governance
+**Governance**
 -Review Vendor agreement
 -Ensure compliance to ISO27001, PCIDSS /SOC2 compliance
 -Regulatory requirements
@@ -34,7 +34,7 @@ Governance
 -Exit clause
 -SLA
 
-Access management
+**Access management**
 -Onboarding/debording
 -2FA
 -in active user accounts
@@ -42,7 +42,7 @@ Access management
 -Activity logs
 -password policy
 
-Container security
+**Container security**
 -Security baselines
 -Log analytics
 -Security monitoring/use cases
@@ -52,15 +52,11 @@ Container security
 
 Cryptography
 -Weak encryption alogrithms/hashes
--
 
 Security architecture reviews
 Vulnerability management
 Patch management
 Network security
-
-
-
 Cloud security baselines
 infrastructure/platform specific security baselines
 Encryption at rest and transit
