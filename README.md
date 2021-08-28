@@ -100,6 +100,12 @@ Patch management
 
 Network security
 
+IDS/IPS
+
+Threat intelligence
+
+proxy
+
 Cloud security baselines
 
 infrastructure/platform specific security baselines
