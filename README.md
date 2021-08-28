@@ -104,6 +104,12 @@ IDS/IPS
 
 Threat intelligence
 
+Malicious programs
+
+Third party integrations
+
+API security
+
 proxy
 
 Cloud security baselines
@@ -165,6 +171,14 @@ Bastion host monitoring
 	alert on change of network security rules
 	
 	alert on changes to admin accounts
+	
+	End point security alerts
+	
+	WAF
+	
+	outsbound connection to Malicious ip
+	
+	
 	
 	etc.,
 	
