@@ -4,8 +4,11 @@
  Cloud risks
  
 OWASP cloud top 10
+
  Accountability and Data Ownership
+ 
  User Identity Federation
+ 
  Regulatory Compliance
  Business Continuity and Resiliency
  User Privacy and Secondary Usage of Data
