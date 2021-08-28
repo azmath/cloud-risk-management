@@ -86,11 +86,11 @@
 -End point detection and response
 
 -keeping the base image updated
--
 
-Cryptography
 
--Weak encryption alogrithms/hashes
+**Cryptography**
+
+Weak encryption alogrithms/hashes
 
 Security architecture reviews
 
